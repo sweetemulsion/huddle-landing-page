@@ -21,7 +21,7 @@ p {
 }
 
 body {
-  background: url(./images/bg-desktop.svg);
+  background: url(bg-desktop.svg);
   background-color: var(--violet);
   background-repeat: no-repeat;
   overflow-x: hidden;
@@ -127,7 +127,7 @@ button a:hover {
 
 @media (max-width: 500px) {
   body {
-    background: url(./images/bg-mobile.svg);
+    background: url(bg-mobile.svg);
     background-repeat: no-repeat;
     background-color: var(--violet);
     text-align: center;
